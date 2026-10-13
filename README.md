@@ -37,7 +37,7 @@
 * **[Amerald Chat Web App](https://github.com/musanii/emerald-chat-frontend)**  
   The frontend interface for Amerald Chat built with Vue.js and Tailwind CSS, focusing on a responsive UI and real-time message delivery.
 
-* **[Amerald Chat API](https://github.com/musanii/emerald-chat)**  
+* **[Amerald Chat API](https://github.com/musanii/emerald_chat)**  
   The high-performance backend powering Amerald Chat, built with Laravel and WebSockets to handle low-latency messaging and scalable connection pools.
 
 ---
