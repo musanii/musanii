@@ -1,11 +1,11 @@
 # Hi there, I'm [Kevin Musanii] 👋
 
 ### 🚀 About Me
-- 🔭 **Currently working on:** [Amerald Chat]
-- 💼 **Focus areas:** [ Backend Architecture, Cloud Infrastructure,System Design, Full-Stack Development]
+- 🔭 **Currently working on:** Amerald Chat
+- 💼 **Focus areas:**  Backend Architecture, Cloud Infrastructure,System Design, Full-Stack Development
 - 🛠️ **Tech Stack:** PHP (Laravel), Vue Js, WebSockets, PostgreSQL,MYSQL, Docker, AWS, Kubernetes
-- 📚 **Learning/Exploring:** [Kubernetes & Cloud Infrastructure]
-- 📫 **How to reach me:** [kevinmusanii@gmail.com]
+- 📚 **Learning/Exploring:** Kubernetes & Cloud Infrastructure
+- 📫 **How to reach me:** kevinmusanii@gmail.com
 
 ---
 
