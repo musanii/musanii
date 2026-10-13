@@ -5,6 +5,7 @@
 - 💼 **Focus Areas:** Backend Architecture, Cloud Infrastructure, Systems Design & Full-Stack Engineering
 - 🛠️ **Tech Stack:** PHP (Laravel), Go, Vue.js, WebSockets, PostgreSQL, MySQL, Docker, AWS, Kubernetes
 - 📚 **Learning/Exploring:** Advanced Kubernetes Operations & Cloud-Native Security
+- 🌐 **Portfolio:** [kevin-musanii.vercel.app](https://kevin-musanii.vercel.app)
 - 📫 **How to reach me:** [kevinmusanii@gmail.com](mailto:kevinmusanii@gmail.com)
 
 ---
@@ -37,7 +38,7 @@
 * **[Amerald Chat Web App](https://github.com/musanii/emerald-chat-frontend)**  
   The frontend interface for Amerald Chat built with Vue.js and Tailwind CSS, focusing on a responsive UI and real-time message delivery.
 
-* **[Amerald Chat API](https://github.com/musanii/emerald_chat)**  
+* **[Amerald Chat API](https://github.com/musanii/emerald-chat)**  
   The high-performance backend powering Amerald Chat, built with Laravel and WebSockets to handle low-latency messaging and scalable connection pools.
 
 ---
@@ -45,6 +46,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musanii&show_icons=true&theme=radial" alt="Kevin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musanii&layout=compact&theme=radial" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musanii&show_icons=true&theme=radical" alt="Kevin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musanii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
